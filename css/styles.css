@@ -28,11 +28,12 @@ address {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
+    
 }
 
 .logo-style {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .nav-header-list {}
@@ -140,6 +141,7 @@ address {
     text-align: center;
     font-size: 36px;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-list {}
@@ -175,6 +177,7 @@ address {
     text-align: center;
     color: #2e2f42;
     font-size: 36px;
+    text-transform: capitalize;
 }
 
 .portfolio-list {}
@@ -211,11 +214,12 @@ address {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #4d5ae5;
+    
 }
 
 .footer-logo-style {
-    color: #4d5ae5;
+    color: #f4f4fd;
 }
 
 .footer-text {
